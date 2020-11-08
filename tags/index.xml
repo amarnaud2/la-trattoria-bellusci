@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Trattoria Bellusci Paris</title>
-    <link>http://restau.test/tags/</link>
+    <link>https://la-trattoria-bellusci.onrender.com/tags/</link>
     <description>Recent content in Tags on Trattoria Bellusci Paris</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="http://restau.test/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://la-trattoria-bellusci.onrender.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
