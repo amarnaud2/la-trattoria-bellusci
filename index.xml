@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trattoria Bellusci Paris</title>
+    <link>http://restau.test/</link>
+    <description>Recent content on Trattoria Bellusci Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 31 Oct 2020 18:13:26 +0100</lastBuildDate><atom:link href="http://restau.test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menu</title>
+      <link>http://restau.test/posts/menu/</link>
+      <pubDate>Sat, 31 Oct 2020 18:13:26 +0100</pubDate>
+      
+      <guid>http://restau.test/posts/menu/</guid>
+      <description>ANTIPASTI/ENTREES Nord et Sud (pour 2 pers.) Planche avec Gorgonzola, saucisson de Napoli, jambon de Parme, Mortadelle de Bologne, Coppa de Calabre 17€</description>
+    </item>
+    
+  </channel>
+</rss>
